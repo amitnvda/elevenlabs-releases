@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "zxp": "11Labs to AE-2.0.0.zxp",
+  "version": "2.0.1",
+  "zxp": "11Labs to AE-2.0.1.zxp",
   "update": "11Labs to AE.zip",
-  "releasedAt": "2026-05-07T12:58:23Z",
-  "notes": ""
+  "releasedAt": "2026-05-07T13:00:00Z",
+  "notes": "Demo bump for recording — revert to 2.0.0 after"
 }
