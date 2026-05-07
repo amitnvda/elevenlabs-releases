@@ -1,7 +1,7 @@
 {
-  "version": "1.6.99",
-  "zxp": "11Labs to AE-1.6.99.zxp",
+  "version": "2.0.0",
+  "zxp": "11Labs to AE-2.0.0.zxp",
   "update": "11Labs to AE.zip",
-  "releasedAt": "2026-04-16T00:00:00Z",
-  "notes": "Test bump — revert to 1.6.0 after"
+  "releasedAt": "2026-05-07T12:58:23Z",
+  "notes": ""
 }
