@@ -1,7 +1,7 @@
 {
-  "version": "1.5.99",
-  "zxp": "11Labs to AE-1.5.99.zxp",
+  "version": "1.5.2",
+  "zxp": "11Labs to AE-1.5.2.zxp",
   "update": "11Labs to AE.zip",
   "releasedAt": "2026-04-16T00:00:00Z",
-  "notes": "Test bump to verify banner — revert before shipping"
+  "notes": ""
 }
