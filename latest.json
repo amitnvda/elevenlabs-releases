@@ -1,8 +1,8 @@
 {
-  "version": "2.1.3",
-  "zxp": "11Labs to AE-2.1.3.zxp",
-  "update": "11Labs to AE-2.1.3-update.zip",
-  "updateUrl": "https://raw.githubusercontent.com/amitnvda/elevenlabs-releases/main/11Labs%20to%20AE-2.1.3-update.zip",
-  "releasedAt": "2026-05-10T09:05:21Z",
+  "version": "2.1.4",
+  "zxp": "11Labs to AE-2.1.4.zxp",
+  "update": "11Labs to AE-2.1.4-update.zip",
+  "updateUrl": "https://raw.githubusercontent.com/amitnvda/elevenlabs-releases/main/11Labs%20to%20AE-2.1.4-update.zip",
+  "releasedAt": "2026-05-10T09:13:33Z",
   "notes": ""
 }
